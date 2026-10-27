@@ -44,7 +44,6 @@ CircleKey is our reference implementation of the GroupVault protocol.
 A standalone TypeScript runtime for executing **Decision Model and Notation — DMN** models.
 
 
-> Some projects listed above may still be under development or preparing for their first public release.
 
 ## Engineering principles
 
@@ -74,16 +73,6 @@ We build libraries and components that can be adopted independently, extended by
 
 Architecture, security assumptions, threat models, examples, and operational guidance are essential parts of our projects.
 
-## Open-source maturity
-
-Our repositories may have different maturity levels:
-
-* **Experimental** — early exploration and proof of concept;
-* **Alpha** — usable, but with possible breaking changes;
-* **Beta** — feature-complete enough for broader testing;
-* **Stable** — documented and maintained for production use.
-
-Each repository should state its current maturity level, security assumptions, compatibility expectations, and release policy.
 
 ## Contributing
 
